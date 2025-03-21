@@ -44,6 +44,8 @@ Sniffing on: Wi-Fi
 [+] Packet: 192.168.0.1 -> 192.168.0.102 | Protocol: 6 (TCP)
     TCP Packet | Src Port: 443 -> Dst Port: 53421
 ```
+## ⚠️ Important Notice
+🔴 **DISCLAIMER:** This tool is strictly for **educational and ethical security testing purposes only**. Unauthorized use to intercept or monitor network traffic without explicit permission is illegal and may violate privacy laws such as the CFAA (U.S.), GDPR (Europe), and other regulations. The user is responsible for ensuring compliance with all applicable laws and obtaining proper authorization before using this tool.  
 
 ## 📜 License
 This project is licensed under the **MIT License**.
